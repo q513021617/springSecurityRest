@@ -1,5 +1,5 @@
 # springSecurityRest
- 这是一个值得学习记录的学习代码，主要是实现了基于mysql数据库实现了Spring Security保护REST API
+ 这是一个值得学习记录的学习代码，主要是实现了基于mysql数据库实现了Spring Security保护REST API，以下文章为转载，代码完全对不上，但是基本流程是一样的，我有时间了之后会慢慢修改下文为这个仓库代码的说明文章。
  
 # 重拾后端之Spring Boot（四）：使用JWT和Spring Security保护REST API
 
